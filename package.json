@@ -1,10 +1,10 @@
 {
-  "name": "netlify-identity-widget",
-  "description": "Netlify Identity widget for easy integration",
-  "version": "1.9.1",
-  "author": "Matt Biilmann <matt@netlify.com>",
+  "name": "@lag/netlify-identity-widget",
+  "description": "Fork of Netlify Identity widget - Stylistic Changes",
+  "version": "1.0",
+  "author": "Curtis Chapman",
   "bugs": {
-    "url": "https://github.com/netlify/netlify-identity-widget/issues"
+    "url": "https://github.com/LagMuffle/netlify-identity-widget"
   },
   "dependencies": {},
   "devDependencies": {
